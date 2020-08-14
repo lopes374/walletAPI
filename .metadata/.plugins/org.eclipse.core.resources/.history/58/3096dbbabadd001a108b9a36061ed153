@@ -1,0 +1,8 @@
+package com.wallet.repository;
+
+import org.springframework.test.context.ActiveProfiles;
+
+@@ActiveProfiles("test")
+public class UserRepositoryTest {
+
+}

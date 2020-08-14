@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.wallet.repositories&apos; to &apos;com.wallet.repository&apos;&#x0D;&#x0A;- Original project: &apos;wallet&apos;&#x0D;&#x0A;- Original element: &apos;wallet/src/main/java/com.wallet.repositories&apos;&#x0D;&#x0A;- Renamed element: &apos;wallet/src/main/java/com.wallet.repository&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.wallet.repositories&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.wallet.repositories" name="com.wallet.repository" qualified="false" references="true" stamp="1597362477978" textual="false" version="1.0"/>
+</session>

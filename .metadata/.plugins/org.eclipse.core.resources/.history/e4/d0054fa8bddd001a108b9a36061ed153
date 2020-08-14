@@ -1,0 +1,14 @@
+package com.wallet.entity;
+
+import java.io.Serializable;
+
+@Entity
+public class User implements Serializable {
+	
+	@Id
+	@GeneratedValue(strategy = GENERATEDVALUE.IDENTITY)
+	private Long id;
+	private String password;
+	private String name;
+
+}
